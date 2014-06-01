@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 
 import com.mobeta.android.dslv.DragSortListView;
-import com.mobeta.android.dslv.DragSortController;
 
 public class WarpDSLV extends ListActivity {
 

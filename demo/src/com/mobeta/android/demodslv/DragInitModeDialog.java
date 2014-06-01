@@ -8,8 +8,6 @@ import android.app.Dialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-import com.mobeta.android.dslv.DragSortController;
-
 /**
  * Sets drag init mode on DSLV controller passed into ctor.
  */
